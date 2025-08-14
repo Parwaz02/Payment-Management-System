@@ -1,5 +1,5 @@
-# Simple Payment Management System
-# Author: Your Name
+# Payment Management System
+# Author: Parwaz
 
 # Store all customers and their payments
 customers = {}
@@ -74,3 +74,4 @@ def main():
 # Run the program
 if __name__ == "__main__":
     main()
+
